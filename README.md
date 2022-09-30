@@ -1,5 +1,8 @@
-# AlfredBOT
+## AlfredBOT
 
+<p>
+  <img height="120" heigth="120" src="./assets/alfred.png">
+</p>
 
 ### Starting NGrOK
 
